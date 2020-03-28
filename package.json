@@ -1,0 +1,15 @@
+{
+  "name": "gpsreader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DavinderSingh",
+  "license": "ISC",
+  "dependencies": {
+    "gps": "^0.5.3",
+    "serialport": "^8.0.7"
+  }
+}
